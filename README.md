@@ -1,5 +1,7 @@
 ![capa github](https://github.com/vitorcime/vitorcime/blob/main/capa.jpg)
 
+Hey there, i'm currently working as a Front End developer and venturing into the world of mobile development.
+
 <center>
   <table>
     <tr>
