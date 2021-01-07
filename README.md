@@ -13,7 +13,8 @@ I entered the course because of the passion for technology and the way it helps 
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcime&hide=html&layout=compact&theme=buefy" />
 
-🔍 Where to find me: :mag:
+🔍 Where to find me: 
+<br />
 <a href="https://www.instagram.com/vitorcime/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/vitorcime/)  
 
 <a href="https://www.linkedin.com/in/vitor-cimetan-231017170/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vitor-cimetan-231017170/)  
