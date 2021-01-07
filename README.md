@@ -1,4 +1,4 @@
-![capa github](https://github.com/vitorcime/vitorcime/blob/main/capa.jpg)
+
 
 <img width="50%" align="right" src="https://github.com/vitorcime/vitorcime/blob/main/capa.jpg" />
 Hey there, I'm Vitor Cimetan a computer science 🧑‍💻 student at <a href="http://www.utfpr.edu.br/">UTFPR</a>.
