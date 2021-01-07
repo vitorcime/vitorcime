@@ -1,4 +1,4 @@
-![capa github](https://github.com/vitorcime/vitorcime/blob/main/Hi there.jpg)
+![capa github](https://github.com/vitorcime/vitorcime/blob/main/capa.jpg)
 
 <center>
   <table>
