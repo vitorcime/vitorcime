@@ -17,7 +17,7 @@ I entered the course because of the passion for technology and the way it helps 
 <br />
 <a href="https://www.instagram.com/vitorcime/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/vitorcime/)  
 
-<a href="https://www.linkedin.com/in/vitor-cimetan-231017170/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vitor-cimetan-231017170/)  
+<a style="margin-left: 20px" href="https://www.linkedin.com/in/vitor-cimetan-231017170/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vitor-cimetan-231017170/)  
 
 <a href="mailto:vitaocimetan@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:mailto:vitaocimetan@gmail.com)  
 <!--
