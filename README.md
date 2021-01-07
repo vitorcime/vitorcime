@@ -3,6 +3,11 @@
 Hey there, I'm Vitor Cimetan a computer science 🧑‍💻 student at <a href="http://www.utfpr.edu.br/">UTFPR</a>.
 I entered the course because of the passion for technology and the way it helps us. Currently working as a Front End developer and venturing into the world of mobile development.
 
+- 🔭 I’m currently working with React/JavaScript.
+- 🌱 I’m currently learning Flutter and Swift.
+- 📫 How to reach me: <a href="mailto:vitaocimetan@gmail.com">vitaocimetan@gmail.com</a>
+- ⚡ Fun fact: I reaally love eating scarlet eggplant.
+
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcime&hide=html&layout=compact&theme=buefy" />
 
 <!--
