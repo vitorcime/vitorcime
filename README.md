@@ -6,8 +6,7 @@ I entered the course because of the passion for technology and the way it helps 
 
 <hr class="dashed">
 
-- 🔭 I’m currently working with React/JavaScript.
-- 🌱 I’m currently learning Flutter and Swift.
+- 🔭 I’m currently working with Swift.
 - ⚡ Fun fact: I reaally love eating scarlet eggplant.
 
 <hr class="dashed">
