@@ -2,12 +2,12 @@
 
 <img width="50%" align="right" src="https://github.com/vitorcime/vitorcime/blob/main/capa.jpeg" />
 Hey there, I'm Vitor Cimetan a computer science 🧑‍💻 student at <a href="http://www.utfpr.edu.br/">UTFPR</a>.
-I entered the course because of the passion for technology and the way it helps us. Currently working as a Front End developer and venturing into the world of mobile development.
+I entered the course because of the passion for technology and the way it helps us. Currently working as a iOS developer.
 
 <hr class="dashed">
 
 - 🔭 I’m currently working with Swift.
-- ⚡ Fun fact: I reaally love eating scarlet eggplant.
+- ⚡ Fun fact: I reaally love eating scarlet eggplant. And also in love with 🐶.
 
 <hr class="dashed">
 
