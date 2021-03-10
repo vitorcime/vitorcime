@@ -17,9 +17,6 @@ I entered the course because of the passion for technology and the way it helps 
 
 <a href="mailto:vitaocimetan@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:mailto:vitaocimetan@gmail.com) 
 
-<hr class="dashed">
-
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcime&hide=html&layout=compact&theme=buefy" />
  
 <!--
 **vitorcime/vitorcime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
