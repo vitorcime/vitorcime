@@ -12,14 +12,14 @@ I entered the course because of the passion for technology and the way it helps 
 <hr class="dashed">
 
 <!-- <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcime&hide=html&layout=compact&theme=buefy" /> -->
-
-<center>
+<img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcime&hide=html&layout=compact&theme=buefy" />
+<!-- <center>
   <table>
     <tr>
         <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcime&hide=html&layout=compact&theme=buefy" /></td>
     </tr>   
   </table>
-</center>
+</center> -->
 
 <a href="https://www.instagram.com/vitorcime/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/vitorcime) 
 
