@@ -16,7 +16,7 @@ I entered the course because of the passion for technology and the way it helps 
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcime&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcime&hide=html&layout=compact&theme=buefy" /></td>
     </tr>   
   </table>
 </center>
