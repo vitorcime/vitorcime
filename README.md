@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" src="https://github.com/vitorcime/vitorcime/blob/main/capa.jpeg" />
 Hey there, I'm Vitor Cimetan a computer science 🧑‍💻 student at <a href="http://www.utfpr.edu.br/">UTFPR</a>.
-I entered the course because of the passion for technology and the way it helps us. Currently working as a iOS developer.
+I entered the course because of the passion for technology and the way it helps us. By now I´m improving myself as an iOS developer.
 
 <hr class="dashed">
 
